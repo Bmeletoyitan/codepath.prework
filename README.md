@@ -49,20 +49,20 @@ https://recordit.co/xiOs5SQLlU
     The only resource I used was youtube which was to search for clearer instructions and export settings         since I was having trouble exporting my files
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-    One of my biggest challenges during the creation of the project was getting acclamatized to the IDE.  
-    Interestingly, JavaScript was closer to Java than I expected. It was a bit easier you use since I had         experience with a similar language. However, I found myself making some syntax errors that caused many       issues that might have been caught by the IDE used in school. I had to make sure that I went over every       line of code to make sure there were no syntax errors that I did not catch. The only other problem I had     was navigating CSS. I found I wasn't getting the changes to the environment as expected. It took a bit of     reconfiguring and going over the instructions multiple times to get the intended result.
+    One of my biggest challenges during the creation of the project was getting acclimatized to the IDE.
+Interestingly, JavaScript was closer to Java than I expected. It was a bit easier to use since I had experience with a similar language. However, I found myself making some syntax errors that caused many issues that might have been caught by the IDE used in school. I had to make sure that I went over every line of code to make sure there were no syntax errors that I did not catch. Another problem I had was navigating CSS. I found I wasn't getting the changes to the environment as expected. It took a bit of reconfiguring and going over the instructions multiple times to get the intended result. Also with CSS,  getting the button to change color when active took me some time. For some reason, I was not getting any button response when implementing the code, however, thanks to the provided code snippet, I was able to use that as a reference and resolve the issue. Since I had a bit of experience with HTML, writing index.html was not too bad. For the most part, this was a great experience and the conditionals at the end of the script.js file was great practice.
     
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-    One of the biggest questions is the process of turning an idea or inspiration into concrete work. I love to draw and web development(front-end languages) has intrigued me because it is one of the avenues of coding where your creativity can shine. How much freedom do you have in the implementation of an idea? What are the limitations? What resources can be used to mitigate some of the limitations present? How does web-development interact with other back-end programming languages? What tools are available for use to maximize time and creativity? These are some of the questions that come to mind when thinking about web development
+     One of the biggest questions is the process of turning an idea or inspiration into concrete work. I love to draw and web development(front-end languages) has intrigued me because it is one of the avenues of coding where your creativity can shine. How much freedom do you have in the implementation of an idea? What are the limitations? What resources can be used to mitigate some of the limitations present? How does web development interact with other back-end programming languages? What tools are available for use to maximize time and creativity? How do developers collaborate with UI/UX designers? Maintenance and optimization are also key factors and great web development. How are these parts of web development covered? How does debugging work in reference to web development?  These are some of the questions that come to mind when thinking about web development.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 This is a list of things I loved to implement with more time and knowledge
     1.) A tracker for the high score that the player has
-    2.) Different levels of difficulty that increase the more the player wins the game. Number of buttons increase as well(finite amount)
-    3.) With each different level, tunes of more complicated songs will be played(e.g Beethoven Symphony No. 5, No. 9)
+    2.) Different levels of difficulty that increase as the player wins more games. The number of buttons increases as well(finite amount) - about three to four levels
+    3.) With each different level, sequences of more complicated tunes will be played(e.g Beethoven Symphony No. 5, No. 9)
     4.) A background that changes and complements the sequence of sounds played
-    5.) a leaderboard of the highes player values in the user's area
+    5.) It would be a great idea to personalize the experience. For example, having different modes, a never-ending mode: this mode will use a random number generator and generate as well as check that the entries the user input are the same as the sequence of numbers generated. Also, just a simple feature that allows users to choose between three themes relating to the song. 
     
 
 
