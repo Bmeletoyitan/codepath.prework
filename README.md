@@ -12,13 +12,13 @@ Link to project: https://glitch.com/edit/#!/verbena-psychedelic-halibut?path=REA
 
 The following **required** functionality is complete:
 
-* [ ] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
-* [ ] "Start" button toggles between "Start" and "Stop" when clicked. 
-* [ ] Game buttons each light up and play a sound when clicked. 
-* [ ] Computer plays back sequence of clues including sound and visual cue for each button
-* [ ] Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess. 
-* [ ] User wins the game after guessing a complete pattern
-* [ ] User loses the game after an incorrect guess
+* [-] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
+* [-] "Start" button toggles between "Start" and "Stop" when clicked. 
+* [-] Game buttons each light up and play a sound when clicked. 
+* [-] Computer plays back sequence of clues including sound and visual cue for each button
+* [-] Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess. 
+* [-] User wins the game after guessing a complete pattern
+* [-] User loses the game after an incorrect guess
 
 The following **optional** features are implemented:
 
@@ -69,12 +69,12 @@ This is a list of things I loved to implement with more time and knowledge
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording]: https://umd.zoom.us/rec/share/ZgvKKZ7NDv-LXEVqG_HebUFzdOTwmBmo8AIcpLW58kmTKV2Z9S9IkKM2C-oGtmhe.Rg7Z84NbT3tcs99O?startTime=1648870768000 (Passcode: W!7Bx@U@)
+5 Minute Recording: https://umd.zoom.us/rec/share/ZgvKKZ7NDv-LXEVqG_HebUFzdOTwmBmo8AIcpLW58kmTKV2Z9S9IkKM2C-oGtmhe.Rg7Z84NbT3tcs99O?startTime=1648870768000 (Passcode: W!7Bx@U@)
 
 
 ## License
 
-    Copyright [Boluwatife Meletoyitan]
+    Copyright Boluwatife Meletoyitan
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
